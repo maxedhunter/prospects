@@ -1,0 +1,28 @@
+// Questions 1 and 2 will be the same, question 3 will
+// be more specific
+
+(PROPERTY NAMES ARE FOUND IN PARENTHESES)
+
+QUESTION 1: 
+Which do you prefer?
+- Identification (id)
+- Creation (create)
+- Project-Style (project)
+
+QUESTION 2 // QUESTION 3 depends on QUESTION 2 answer
+What field of STEM are you most interested in?
+- Nature (nature) ==> 
+    - Choose your top choice from below:
+      - Plants (plants)
+      - Animals (animals)
+      - Microorganisms (micro)
+- Space (space) ==>
+    - Choose your top choice from below: 
+      - Stars (stars)
+      - Planets (planets)
+      - Gravity (gravity)
+- Medicine (med) ==>
+    - Choose your top choice from below:
+      - Genetics (genetics)
+      - Cell Biology (cellbio)
+      - Healthcare (health)
